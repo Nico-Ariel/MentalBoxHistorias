@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<BODY BGCOLOR="#FFFFFF">
+<head>
+
+
+<title>MentalBox</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
+    <style>
+    /*RESETER*/
+        
+        /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+        body{
+            background-color: black;
+            color: white;
+            font-family: 'Roboto Condensed', sans-serif;
+        }    
+        
+      header{
+            width: 1280px;
+            height: 720px;
+            margin: 20px;
+            background-color: white;
+            position: relative;
+        }
+        header h1{
+           position: absolute;
+           bottom: 120px;
+           left: 0px;
+            right: 0px;
+            font-family: 'Roboto Condensed', sans-serif;
+            font-size: 45px;
+            color: black;
+            font-weight: 600;
+        }
+        header table, th{
+           position: absolute;
+            left: 140px;
+            top: 640px;
+            border:4px solid;
+            border-color: white;
+            width: 1050px;
+            height: 45px;
+            color: white;
+            border-radius: 10px;
+        }
+        header td{
+            font-family: 'Roboto Condensed', sans-serif;
+            font-size: 40px;
+            text-align: center;
+            border-radius: 50px;
+        }
+        img{
+            margin-bottom: 1em;
+            margin-top: 4em;
+            height: 300px;
+            width: 450px;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+        }
+        p{
+            font-family: 'Roboto Condensed', sans-serif;
+            font-size: 35px;
+            color: white;
+            margin-left: 105px;
+            margin-right: 105px;
+            margin-bottom: 20px;
+        }
+        hr{
+            border-top: 2px solid red;
+            border-bottom: 2px solid red;
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <CENTER>
+    <header>
+        <CENTER>
+    <div style="position: relative; width: 65%; height: 75%; padding-top: 34.4%;
+ padding-bottom: ; box-shadow: 0 0px 0px 0px rgba(63,69,81,0.16); margin-top: 2em; margin-bottom: 2em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQS5DZtbI&#x2F;view?embed">
+  </iframe>
+</div>
+    
+</CENTER>
+
+    <center><h1><B>¿EL BOXEO ES TAN DAÑINO COMO LA MAYORÍA LO CONOCE?</B></h1></center>
+   
+<center>
+<table border cellpadding="20">
+<meta charset="utf-8">
+<tr>
+    <td bgcolor="FF0000" class="selected"><a href="               "><b>INICIO</b></a></td>
+    <td bgcolor="0000FF" class="selected"><a href=""><b>HISTORIAS DE BOXEADORES</b></a></td>
+    <td bgcolor="FF0000" class="selected"><a href="               "><b>QUIÉNES SOMOS</b></a></td>
+</tr>
+</table>
+</center>
+    </header>
+    </CENTER>
+    <hr>
+<CENTER>
+    <img src="https://resizer.glanacion.com/resizer/V1WdU_oBAJ97vN2hwK9kef4tcsM=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UNUI3JACYVBUFEYQSY5IL2CWCY.jpg" width="250" height="150">
+<p><b>Nicolino Felipe Locche</b>, apodado como "el intocable" nació el 2 de septiembre de 1939 en Tunuyán, Mendoza. Fue un boxeador argentino, conocido por su buen trato con la gente y su humildad, además considerado como el boxeador con mejores habilidades defensivas de todos los tiempos.</p>
+<p>
+Se consagró campeón mundial en la categoría peso superligero ante Takeshi Fuji, el 12 de diciembre de 1968, en Tokio, reteniendo el título hasta 1972. Su fallecimiento ocurrió el 7 de septiembre de 2005 en las Heras, Mendoza.</p>
+</CENTER>
+<hr>
+
+<CENTER>
+<img src="https://www.serargentino.com/public/images/2019/10/monzon-773x458.jpeg" width="250" height="150">
+<p>
+<b>Carlos Roque Monzón</b>, apodado como "la escopeta", nació el 7 de agosto de 1942 en San Javier. Con unas pocas pertenencias en una bolsa de arpillera, Monzón arribó al club Unión en Santa Fe donde se entrenó y formó para ser un gran boxeador. </p>
+<p>Logró alcanzar el título de campeón mundial de la categoría mediano a fines de 1970 y lo retuvo hasta su retiro, en 1977. Falleció en un accidente automovilístico el 8 de enero de 1995 en Los Cerrillos.
+ </p>
+ </CENTER>
+<hr>
+
+<CENTER>
+<img src="https://i.ytimg.com/vi/UfmiyE_0oe8/maxresdefault.jpg" width="250" height="150">
+<p>
+<b>Sergio Martínez</b>, apodado cómo "la maravilla" Martínez, nació el 21 de febrero de 1975 en Buenos Aires. De origen humilde y con una historia de superación que se prolonga hasta la fecha, este boxeador profesional argentino fue campeón mundial en dos categorías de peso, ganándose el cariño y agrado del público.</p>
+ </CENTER>
+<hr> 
+
+</body>
+    </BODY>
+</html>
